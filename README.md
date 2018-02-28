@@ -1,7 +1,7 @@
 # Satobot
 A very configurable bot for satoshimines.com
 
-Originally developed in July 2015, updated for Gitub January 2018
+Originally developed in July 2015, updated for Github January 2018
 
 ## Features
 * Completely configurable strategies
